@@ -1,0 +1,6 @@
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\obj\Debug\CanineBodyguards.csprojResolveAssemblyReference.cache
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\bin\Debug\CanineBodyguards.dll
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\bin\Debug\CanineBodyguards.pdb
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\bin\Debug\ScriptHookVDotNet.dll
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\obj\Debug\CanineBodyguards.dll
+D:\GTA 5 SDK\GTA 5 mod scripts\CanineBodyguards\CanineBodyguards\obj\Debug\CanineBodyguards.pdb
